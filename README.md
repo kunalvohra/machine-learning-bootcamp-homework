@@ -1,4 +1,5 @@
 # machine-learning-bootcamp-homework
 ML bootcamp datatalks homework and learning
 
-test git commit
+homework1 - done
+week2- in progress
